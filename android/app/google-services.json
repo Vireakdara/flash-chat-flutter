@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822446780821",
+    "project_id": "flash-chat-b776a",
+    "storage_bucket": "flash-chat-b776a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822446780821:android:73ceadd16acb83d6c8069c",
+        "android_client_info": {
+          "package_name": "co.Vireakdara.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822446780821-e4mu1cjriaacpannq8o6lujagls5d2nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqpid2cKDzqCZERoccWg1v022RVwM6ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822446780821-e4mu1cjriaacpannq8o6lujagls5d2nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
